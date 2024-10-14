@@ -1,2 +1,2 @@
 //intro to git
-console.log("anjay")
+console.log("Hello my Git")
